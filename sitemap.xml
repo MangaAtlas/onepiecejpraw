@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
- <url><loc>https://mangaatlasjpraw.github.io/onepiecejpraw/</loc></url>
- <url><loc>https://mangaatlasjpraw.github.io/onepiecejpraw/manga.html?slug=one-piece</loc></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://mangaatlasjpraw.github.io/onepiecejpraw/</loc>
+    <lastmod>2026-11-01</lastmod>
+    <image:image><image:loc>https://mangaatlasjpraw.github.io/onepiecejpraw/manga-covers/one-piece/1793478147742-81MLf-pgXrL._AC_UF1000_1000_QL80_.jpg</image:loc><image:title>one-piece manga cover</image:title></image:image>
+  </url>
+  <url><loc>https://mangaatlasjpraw.github.io/onepiecejpraw/manga.html?slug=one-piece</loc></url>
 </urlset>
