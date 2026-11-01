@@ -6,4 +6,14 @@
     <image:image><image:loc>https://mangaatlasjpraw.github.io/onepiecejpraw/manga-covers/one-piece/1793478147742-81MLf-pgXrL._AC_UF1000_1000_QL80_.jpg</image:loc><image:title>one-piece manga cover</image:title></image:image>
   </url>
   <url><loc>https://mangaatlasjpraw.github.io/onepiecejpraw/manga.html?slug=one-piece</loc></url>
+  <url>
+    <loc>https://mangaatlasjpraw.github.io/onepiecejpraw/chapter.html?slug=one-piece-raw-jap-1197-jap</loc>
+    <lastmod>2026-11-01</lastmod>
+    <image:image><image:loc>https://raw.githubusercontent.com/MangaAtlasjpraw/onepiecejpraw/main/chapter-images/one-piece/chapter-one-piece-raw-jap-1197/.upload-1793480333585/0001-1.jpg</image:loc><image:title>One Piece Raw Chapter 1197 Japanese</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://mangaatlasjpraw.github.io/onepiecejpraw/chapter.html?slug=one-piece-raw-eng-1197-eng</loc>
+    <lastmod>2026-11-01</lastmod>
+    <image:image><image:loc>https://raw.githubusercontent.com/MangaAtlasjpraw/onepiecejpraw/main/chapter-images/one-piece/chapter-one-piece-raw-eng-1197/.upload-1793480463690/0001-1.jpg</image:loc><image:title>One Piece Raw Chapter 1197 English</image:title></image:image>
+  </url>
 </urlset>
