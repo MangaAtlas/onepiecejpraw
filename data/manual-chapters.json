@@ -54,6 +54,17 @@
       ],
       "createdAt": "2026-10-31T20:55:24.480Z",
       "updatedAt": "2026-11-01T14:06:15.168Z"
+    },
+    {
+      "id": "manual-1793812204688",
+      "mangaId": "one-piece",
+      "number": 1198,
+      "title": "ワンピース raw ( One Piece raw ) 第1198話 | JAPAN",
+      "slug": "one-piece-raw-jap-1198",
+      "country": "JP",
+      "pages": [],
+      "createdAt": "2026-11-04T17:10:03.433Z",
+      "updatedAt": "2026-11-04T17:10:03.433Z"
     }
   ]
 }
